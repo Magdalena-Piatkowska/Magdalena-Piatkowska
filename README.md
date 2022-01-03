@@ -1,4 +1,4 @@
-👋 Hi, I’m @Magdalena-Piatkowska, here on a journey to learn how to write code that's not totally appalling.
+👋 Hi, I’m Magda, here on a journey to learn how to write code that's not totally appalling.
 
 
 <!---
